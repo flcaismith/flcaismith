@@ -8,7 +8,7 @@
 
 \*\*Skills:\*\* LLMs \& Prompt Engineering · ChatGPT · Multi-modal AI · Nebius AI Studio · Automation with Zapier, Make, n8n · RPA with UiPath · AI Agents · Webhooks \& APIs  
 
-📄 \[View Certificate](./tripleten-ai-automation-2026.pdf)
+🔗 \[View Certificate](https://ibb.co/8nrxdvSg)
 
 
 
@@ -20,5 +20,15 @@
 
 \*\*Issued:\*\* March 2026  
 
-🔗 \[Verify Certificate](PASTE\_URL\_HERE)
+🔗 \[View Certificate](https://ibb.co/JRN6nM7P)
+
+
+
+\---
+
+
+
+\## Zapier — AI Builder
+
+\*\*Issued:\*\* March 2026
 
